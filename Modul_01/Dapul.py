@@ -5,7 +5,7 @@ angka = 10
 desimal = 0.5
 boolean = True
 Kelas_D = ["nama" : "Daffa", "Kelas" : " D"]
-dictionary = {"nama": "daffa", "Kelas": "KLS D", "NIM":135 }
+dictionary = {"nama": "daffa", "Kelas": "KLS D", }
 
 print("nama_depan")
 print("nama saya adalah Daffa")
