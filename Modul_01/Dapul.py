@@ -1,5 +1,5 @@
-nama = "Daffa"
-lengkap = "Rusydiansyah"
+nama depan = "Daffa"
+nama belakang = "Rusydiansyah"
 
 angka = 10
 desimal = 0.5
