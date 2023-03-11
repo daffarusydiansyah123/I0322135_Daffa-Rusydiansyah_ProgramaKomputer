@@ -1,4 +1,4 @@
-nama depan = "Daffa"
+nama_depan = "Daffa"
 nama belakang = "Rusydiansyah"
 
 angka = 10
