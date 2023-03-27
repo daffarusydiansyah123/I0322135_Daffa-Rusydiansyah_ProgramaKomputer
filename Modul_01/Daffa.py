@@ -10,4 +10,4 @@ data = {"nama": "daffa", "Kelas": "KLS D", }
 print("nama_depan")
 print("nama saya adalah Daffa")
 
-print("nama saya adalah (nama depan) (nama belakang) dari kelas (data [ "kelas" ])")
+print("nama saya adalah (nama depan) (nama belakang) dari kelas (data [ "Kelas_D" ])")
